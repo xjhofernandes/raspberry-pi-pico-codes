@@ -19,7 +19,5 @@ O mesmo depende de:
 * 6x - Jumper Macho/Macho
 
 ## Fotos do componentes:
-
-![Foto do projeto](/foto-projeto-1.jpeg "Foto dos componentes do projeto"
-
-![Foto do projeto 2](/foto-projeto-2.jpeg "Foto dos componentes do projeto 2"
+![This is an image](foto-projeto-1.jpeg)
+![This is an image](foto-projeto-2.jpeg)
